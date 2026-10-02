@@ -87,9 +87,6 @@ pip install -r requirements.txt
 python train_predict.py
 python score.py --predictions validation_predictions.csv --december-predictions data/december_chart_inputs.csv
 ```
-## Loom Video
-
-[Watch the assessment walkthrough](https://www.loom.com/share/47f7e2fb581747c5a1ee8e2506402ba1)
 
 ## Files
 
